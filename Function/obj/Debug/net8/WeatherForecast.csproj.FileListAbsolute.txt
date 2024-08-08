@@ -1,0 +1,12 @@
+C:\workspace\azure\ais\logic-apps-functions\bre\MyLogicAppWorkspace\Function\bin\Debug\net8\WeatherForecast.deps.json
+C:\workspace\azure\ais\logic-apps-functions\bre\MyLogicAppWorkspace\Function\bin\Debug\net8\WeatherForecast.dll
+C:\workspace\azure\ais\logic-apps-functions\bre\MyLogicAppWorkspace\Function\bin\Debug\net8\WeatherForecast.pdb
+C:\workspace\azure\ais\logic-apps-functions\bre\MyLogicAppWorkspace\Function\obj\Debug\net8\WeatherForecast.csproj.AssemblyReference.cache
+C:\workspace\azure\ais\logic-apps-functions\bre\MyLogicAppWorkspace\Function\obj\Debug\net8\WeatherForecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\azure\ais\logic-apps-functions\bre\MyLogicAppWorkspace\Function\obj\Debug\net8\WeatherForecast.AssemblyInfoInputs.cache
+C:\workspace\azure\ais\logic-apps-functions\bre\MyLogicAppWorkspace\Function\obj\Debug\net8\WeatherForecast.AssemblyInfo.cs
+C:\workspace\azure\ais\logic-apps-functions\bre\MyLogicAppWorkspace\Function\obj\Debug\net8\WeatherForecast.csproj.CoreCompileInputs.cache
+C:\workspace\azure\ais\logic-apps-functions\bre\MyLogicAppWorkspace\Function\obj\Debug\net8\WeatherForecast.dll
+C:\workspace\azure\ais\logic-apps-functions\bre\MyLogicAppWorkspace\Function\obj\Debug\net8\refint\WeatherForecast.dll
+C:\workspace\azure\ais\logic-apps-functions\bre\MyLogicAppWorkspace\Function\obj\Debug\net8\WeatherForecast.pdb
+C:\workspace\azure\ais\logic-apps-functions\bre\MyLogicAppWorkspace\Function\obj\Debug\net8\ref\WeatherForecast.dll

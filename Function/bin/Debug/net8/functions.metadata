@@ -1,0 +1,19 @@
+[
+  {
+    "name": "WeatherForecast",
+    "scriptFile": "WeatherForecast.dll",
+    "entryPoint": "Contoso.Enterprise.WeatherForecast.Run",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "zipCode",
+        "direction": "In",
+        "type": "workflowActionTrigger",
+        "properties": {}
+      }
+    ]
+  }
+]
